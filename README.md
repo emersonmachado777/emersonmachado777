@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emersonmachado777
 - 👀 I’m interested i be back fr developer life cicly and knowledge. Long time in Infrastructure serves.
 - 🌱 I’m currently learning PHP with LARAVEL, next step is ANDROID WORLD and C#.
-- 💞️ I’m looking to collaborate on My New Projecto of Power Sales, old in VB.NET CompactFramework 2...
+- 💞️ I’m looking to exchange knowledges.
 - 📫 How to reach me GO TO MY LIKEDIN PROFILE!
 
 <!---
